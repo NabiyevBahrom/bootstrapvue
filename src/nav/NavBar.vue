@@ -82,7 +82,7 @@
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">
             <a
-              href="https://www.creative-tim.com/product/material-design-system-pro#pricingCard"
+              href="#"
               class="btn btn-sm bg-gradient-primary mb-0 me-1"
               role="button"
               ><img src="./icons/github.png" alt=""
